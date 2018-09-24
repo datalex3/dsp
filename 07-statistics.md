@@ -89,10 +89,14 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 5/11
 
 We first determine the unconditional probabilities.
+
 A = P of boy plus identical twin boy is 1/300 * 1/2 = 1/600 
+
 B = P of boy plus fraternal twin boy is 1/125 * 1/3= 1/500
+
 Apply Bayes' Theorem to determine the conditional: P(A|B) = P(B|A)P(A)/P(B):
 P(A|B) = 1/600 / (1/500 + 1/600) = 5/11
+
 
 
 ---
